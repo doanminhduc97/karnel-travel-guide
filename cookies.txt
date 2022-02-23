@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.karneltravelguide.somee.com	TRUE	/	FALSE	1999999999	__RequestVerificationToken	cVvbjEpnUI_VqKA_vtK-Mcfj4RmZU68A5A6FUmCGtDH2osDLlBCZGpyKXoeax3O3_yWqA_dkwgTxt-GLs43f_GVQWh_zuAbYvSyDtPjpK8w1
+
